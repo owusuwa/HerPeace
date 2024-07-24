@@ -1,11 +1,11 @@
 import React from "react";
 import { View , Text} from "react-native";
 
-export default class Home extends React.Component{
+export default class Details extends React.Component{
     render(){
         return(
             <View>
-                <Text>Home</Text>
+                <Text>Details</Text>
             </View>
         )
     }
